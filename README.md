@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Kevin Wu
-kew036@ucsd.edu
+Kevin Wu and Yiran Zhao
