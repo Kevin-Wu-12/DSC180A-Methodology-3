@@ -1,2 +1,2 @@
 # DSC180A-Methodology-3
-Kevin Wu
+Yiran Zhao
